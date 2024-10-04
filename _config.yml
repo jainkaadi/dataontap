@@ -2,17 +2,25 @@ title: DataonTap
 description: Analytics tools
 theme: just-the-docs
 
+
 url: https://jainkaadi.github.io/dataontap
 
 ga_tracking: G-00ZGMH0QST
 
 logo: "assets/images/logo.jpg"
 
+color_scheme: dark
+
+# Back to top link
+back_to_top: true
+back_to_top_text: "Back to top"
+
 
 callouts:
   warning:
     title: Warning
     color: red
+
 
 
 
