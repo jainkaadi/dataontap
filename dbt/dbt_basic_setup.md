@@ -1,6 +1,7 @@
 ---
 title: Basic Setup for DBT
 layout: default
+parent: DBT For Beginners
 ---
 
 When I started in DBT, I was intimiated with all the features - sources, tests, models, connections, jinja, and what not.
