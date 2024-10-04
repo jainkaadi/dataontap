@@ -1,8 +1,8 @@
 ---
 layout: default
-title: "BigQuery Table Expiration"
+title: BigQuery Table Expiration
 permalink: /bigquery/table_expiration
-parent: about
+parent: About the author
 ---
 
 The code for BigQuery!!
