@@ -1,7 +1,7 @@
 ---
-title: DBT For Beginners
+title: Packages
 layout: default
 ---
 
-DBT is a powerful tool which can be scary. In this short series, I will cover the simplest implementation so you can start using it right away.
-
+Getting started with analytics is easy.
+Check out the below packages to know more.
